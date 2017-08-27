@@ -4,7 +4,7 @@
   "description": "A generic gulp plugin to do anything with a stream of files",
   "main": "dist/index.js",
   "scripts": {
-    "install-globals": "npm install -g gulp-cli",
+    "gulp": "gulp",
     "develop": "gulp develop"
   },
   "repository": {
@@ -21,11 +21,11 @@
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "license": "GPL-3.0",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-uglify": "^3.0.0",
-    "gulp-watch": "^4.3.11"
+    "gulp": "3.9.1",
+    "gulp-uglify": "3.0.0",
+    "gulp-watch": "4.3.11"
   },
   "dependencies": {
-    "through2": "^2.0.3"
+    "through2": "2.0.3"
   }
 }
