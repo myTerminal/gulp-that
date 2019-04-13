@@ -31,7 +31,7 @@ A generic gulp plugin to do anything with a stream of files
             .pipe(gulp.dest('dist'));
     });
 
-The symbol `operation` can be a function that is capable of transforming a string into another. For example if it is a function like below,
+The symbol `operation` can be a function that is capable of transforming a string into another. For example, if it is a function like below,
 
     function operation (string) {
         return string.length;
