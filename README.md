@@ -8,7 +8,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/gulp-that.svg)](https://david-dm.org/myTerminal/gulp-that)
 [![devDependency Status](https://david-dm.org/myTerminal/gulp-that/dev-status.svg)](https://david-dm.org/myTerminal/gulp-that#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/gulp-that/peer-status.svg)](https://david-dm.org/myTerminal/gulp-that#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/gulp-that.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-that/)
 
 A generic gulp plugin to do anything with a stream of files
