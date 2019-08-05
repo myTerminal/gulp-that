@@ -19,7 +19,7 @@
     "gulp"
   ],
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "6.26.0",
     "babel-preset-env": "1.6.1",
