@@ -8,11 +8,12 @@ module.exports = operation => {
     }
 
     return through.obj(
-        (file, encoding, callback) => {
+        function (file, encoding, callback) { // Has to be a regular function
             file.contents = new Buffer(
                 operation(file.contents.toString()).toString()
             );
 
+            // Only works within a regular function, fails in an arrow function
             this.push(file);
 
             callback();
