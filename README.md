@@ -23,18 +23,17 @@ A generic gulp plugin to do anything with a stream of files
 
 'Require' *gulp-that* into a variable and use it as you would use any other gulp plugin. The only special thing about *gulp-that* is that is needs you to tell it for what to do with the files in a stream.
 
-    var gulpThat = require('gulp-that');
+    const gulpThat = require('gulp-that');
 
-    gulp.task('transform, function () {
+    gulp.task('transform, () => {
         gulp.src('src/**/*.js')
-            .pipe(gulpDo(operation))
+            .pipe(gulpThat(operation))
             .pipe(gulp.dest('dist'));
     });
 
 The symbol `operation` can be a function that is capable of transforming a string into another. For example, if it is a function like below,
 
-    function operation (string) {
-        return string.length;
-    }
+    const operation = inputString =>
+        inputString.length;
 
 *gulp-that* would transform all files into their own file sizes in bytes.
