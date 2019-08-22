@@ -25,7 +25,7 @@ A generic gulp plugin to do anything with a stream of files
 
     const gulpThat = require('gulp-that');
 
-    gulp.task('transform, () => {
+    gulp.task('convert-to-lengths', () => {
         gulp.src('src/**/*.js')
             .pipe(gulpThat(operation))
             .pipe(gulp.dest('dist'));
