@@ -4,6 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dt/gulp-that.svg)](https://www.npmjs.com/package/gulp-that)  
 [![Build Status](https://travis-ci.org/myTerminal/gulp-that.svg?branch=master)](https://travis-ci.org/myTerminal/gulp-that)
 [![Code Climate](https://codeclimate.com/github/myTerminal/gulp-that.png)](https://codeclimate.com/github/myTerminal/gulp-that)
+[![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/gulp-that.svg)](https://coveralls.io/r/myTerminal/gulp-that?branch=master)  
 [![Dependency Status](https://david-dm.org/myTerminal/gulp-that.svg)](https://david-dm.org/myTerminal/gulp-that)
 [![devDependency Status](https://david-dm.org/myTerminal/gulp-that/dev-status.svg)](https://david-dm.org/myTerminal/gulp-that#info=devDependencies)
