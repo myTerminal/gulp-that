@@ -1,1 +1,0 @@
-"use strict";var through=require("through2");module.exports=function(n){if(!n)throw new Error("gulp-that: Missing operation");return through.obj(function(t,r,o){t.contents=new Buffer(n(t.contents.toString()).toString()),this.push(t),o()})};
