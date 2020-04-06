@@ -3,6 +3,9 @@
   "version": "0.10.2",
   "description": "A generic gulp plugin to do anything with a stream of files",
   "main": "build/index.js",
+  "files": [
+    "/build"
+  ],
   "scripts": {
     "gulp": "gulp"
   },
