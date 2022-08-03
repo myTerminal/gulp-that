@@ -1,15 +1,12 @@
 # gulp-that
 
 [![npm version](https://badge.fury.io/js/gulp-that.svg)](https://badge.fury.io/js/gulp-that)
-[![npm downloads](https://img.shields.io/npm/dt/gulp-that.svg)](https://www.npmjs.com/package/gulp-that)  
+[![npm downloads](https://img.shields.io/npm/dt/gulp-that.svg)](https://www.npmjs.com/package/gulp-that)
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://travis-ci.org/myTerminal/gulp-that.svg?branch=master)](https://travis-ci.org/myTerminal/gulp-that)
 [![Code Climate](https://codeclimate.com/github/myTerminal/gulp-that.png)](https://codeclimate.com/github/myTerminal/gulp-that)
 [![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/gulp-that.svg)](https://coveralls.io/r/myTerminal/gulp-that?branch=master)  
-[![Dependency Status](https://david-dm.org/myTerminal/gulp-that.svg)](https://david-dm.org/myTerminal/gulp-that)
-[![devDependency Status](https://david-dm.org/myTerminal/gulp-that/dev-status.svg)](https://david-dm.org/myTerminal/gulp-that#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/gulp-that/peer-status.svg)](https://david-dm.org/myTerminal/gulp-that#info=peerDependencies)  
-[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/gulp-that.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-that/)
 
 A generic gulp plugin to do anything with a stream of files
