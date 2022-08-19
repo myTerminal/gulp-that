@@ -1,6 +1,6 @@
 {
   "name": "gulp-that",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "description": "A generic gulp plugin to do anything with a stream of files",
   "main": "build/index.js",
   "files": [
